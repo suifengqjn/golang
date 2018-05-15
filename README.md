@@ -13,10 +13,10 @@
 ### 捐赠
 
 #### 通过微信支付捐赠
-![微信支付](https://raw.githubusercontent.com/suifengqjn/demoimages/master/%E6%94%B6%E6%AC%BE%E7%A0%81/wechat.jpeg)
+![微信支付](https://raw.githubusercontent.com/suifengqjn/demoimages/master/%E6%94%B6%E6%AC%BE%E7%A0%81/wechat.jpg)
 
 #### 通过支付宝捐赠
-![支付宝支付](https://raw.githubusercontent.com/suifengqjn/demoimages/master/%E6%94%B6%E6%AC%BE%E7%A0%81/zhifubao.jpeg)
+![支付宝支付](https://raw.githubusercontent.com/suifengqjn/demoimages/master/%E6%94%B6%E6%AC%BE%E7%A0%81/zhifubao.jpg)
 
 ### 反馈
 
