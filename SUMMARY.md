@@ -3,8 +3,8 @@
 * [第一章 基本要素](chapter1/1.0.md)
  - 1.1 [介绍和安装](chapter1/1.1.md)
  - 1.2 [Linux常用命令](chapter1/1.2.md)
- - 1.3 [字面量](chapter1/1.3.md)
- - 1.4 [操作符](chapter1/1.4.md)
+ - 1.3 [常量变量](chapter1/1.3.md)
+ - 1.4 [运算符](chapter1/1.4.md)
  - 1.5 [表达式](chapter1/1.5.md)
 * [第二章](chapter1/1.0.md)
 
